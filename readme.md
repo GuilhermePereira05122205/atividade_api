@@ -3,5 +3,5 @@ Este trabalho é uma API para conectar ao sistema criado durante as aulas, em qu
 Para inicia-lo basta executar o docker-compose presente no repositório e iniciar a api do projeto.
 
 Autores:
-    Gabriel Lima Freire
+    Gabriel Lima Freire \n
     Guilherme Rafael Figueiredo Pereira
